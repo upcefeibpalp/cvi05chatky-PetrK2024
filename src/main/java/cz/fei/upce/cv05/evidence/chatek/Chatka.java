@@ -9,7 +9,7 @@ public class Chatka {
     public int cisloChatky;
     public int pocetNavstevniku;
 
-    public Chatka(int cisloChatky, int pocetNavstevniku) {
+    public Chatka(int cisloChatky, int pocetNavstevniku) { 
         this.cisloChatky = cisloChatky;
         this.pocetNavstevniku = pocetNavstevniku;
     }

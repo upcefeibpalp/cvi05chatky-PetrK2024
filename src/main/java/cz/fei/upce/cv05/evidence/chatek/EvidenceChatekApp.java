@@ -25,7 +25,7 @@ public class EvidenceChatekApp {
             System.out.println("""
                     MENU:
                                         
-                    1 - Vypsani vsech chatek
+                    1 - Vypsani vsech chatek 
                     2 - Vypsani konkretni chatky
                     3 - Pridani navstevniku
                     4 - Odebrani navstevniku

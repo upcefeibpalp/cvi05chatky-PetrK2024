@@ -12,5 +12,5 @@ public class Kemp {
             chatky[i] = new Chatka(i + 1, 0);
         }
         return chatky;
-    }
+    } 
 }
