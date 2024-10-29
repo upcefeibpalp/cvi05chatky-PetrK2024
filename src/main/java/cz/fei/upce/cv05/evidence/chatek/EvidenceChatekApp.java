@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class EvidenceChatekApp {
     
-    static final int KONEC_PROGRAMU = 0;
+    static final int KONEC_PROGRAMU = 0; 
     static final int VYPIS_CHATEK = 1;
     static final int VYPIS_KONKRETNI_CHATKU = 2;
     static final int PRIDANI_NAVSTEVNIKU = 3;

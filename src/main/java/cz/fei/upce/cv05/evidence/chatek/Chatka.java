@@ -15,7 +15,7 @@ public class Chatka {
     }
 
     private static int zadejCisloChatky() {
-        // Ziskani cisla chatky od uzivatele
+        // Ziskani cisla chatky od uzivatele 
         System.out.print("Zadej cislo chatky: ");
         // Odecteni 1 protoze uzivatel cisluje chatky o 1, ale program od 0
         return scanner.nextInt() - 1;
